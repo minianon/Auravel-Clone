@@ -16,11 +16,11 @@ This repository contains the code for the Round 1 technical assessment for the F
 
 ## Tech Stack & Tools
 
-*   **Framework:** [e.g., React (via Vite)]
-*   **Styling:** [e.g., Tailwind CSS]
-*   **Animations:** [e.g., Framer Motion / GSAP / CSS Animations]
-*   **Deployment:** [e.g., Vercel]
-*   **Code Editor:** [e.g., Cursor (Leveraging AI for rapid development)]
+*   **Framework:** React (via Vite)
+*   **Styling:** Tailwind CSS
+*   **Animations:** Framer Motion / GSAP / CSS Animations
+*   **Deployment:** Vercel
+*   **Code Editor:** Lovable
 
 ---
 
