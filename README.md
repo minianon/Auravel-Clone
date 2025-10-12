@@ -1,4 +1,4 @@
-# auravel - breakoutAI Round 1 Challenge
+# Auravel - breakoutAI Round 1 Challenge
 
 This repository contains the code for the Round 1 technical assessment for the Frontend Engineer Intern role at breakoutAI. The goal was to clone a website with pixel-perfect accuracy, full responsiveness, and all original animations within a 48-hour timeframe.
 
