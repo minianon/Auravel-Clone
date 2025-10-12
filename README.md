@@ -57,7 +57,7 @@ This project was built with a primary focus on the key requirements of the chall
     npm run dev
     ```
 
-The application will be available at `http://localhost:5173`.
+The application will be available at `http://localhost:8080`.
 
 ---
 
