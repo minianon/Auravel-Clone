@@ -4,17 +4,17 @@ This repository contains the code for the Round 1 technical assessment for the F
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 **[https://auravel-clone-five.vercel.app](https://auravel-clone-five.vercel.app/)**
 
-## ✨ Original Website (for comparison)
+## Original Website (for comparison)
  
 **[https://auravel.webflow.io](https://auravel.webflow.io/)**   
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 *   **Framework:** [e.g., React (via Vite)]
 *   **Styling:** [e.g., Tailwind CSS]
@@ -24,7 +24,7 @@ This repository contains the code for the Round 1 technical assessment for the F
 
 ---
 
-## ✅ Core Focus Areas
+## Core Focus Areas
 
 This project was built with a primary focus on the key requirements of the challenge:
 
@@ -35,7 +35,7 @@ This project was built with a primary focus on the key requirements of the chall
 
 ---
 
-## ⚙️ Running the Project Locally
+## Running the Project Locally
 
 1.  **Clone the repository:**
     ```bash
@@ -58,3 +58,20 @@ This project was built with a primary focus on the key requirements of the chall
     ```
 
 The application will be available at `http://localhost:5173`.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+- **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
+- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
+- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
+- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
+- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
+- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
+
